@@ -1,7 +1,7 @@
 # twitter_followerlist_hide_who_followedback
 hides followers who followed you back, so if you could unfollow them either
 
-1.you have to open your followers page on twitter
+1.you have to open your followers page on twitter<br>
 2.open console panel
 3.copy the code into console.
 4.press enter.
